@@ -1,3 +1,57 @@
-body {
-  
+body{
+  background-color:black;
+  font-family: "Lucida Console", "Courier New", monospace;
+  color: teal;
+}
+
+      #center-h1{
+  text-align:center;
+        color: slategrey;
+        font-size: 30px;
+        font-weight: normal;
+}
+
+      p{
+  font-weight:none;
+}
+
+      ol{
+  font-weight:none;
+}
+      ul{
+  font-weight:none;
+}
+      img{
+   height:200px;
+   width:300px;
+        
+}
+.disclaimer{
+  font-size:12px;
+}
+
+span{
+  background-color: pink;
+}
+
+h1, h2, h3, h4, h5, h6, table, p, ol, ul{
+  font-weight: normal;
+}
+
+.socialmedia{
+  height: 30px;
+  width: 30px;
+}
+
+#inline{
+  display:inline-block;
+}
+
+#copysymbol{
+  text-align:center;
+}
+
+alt{
+  color:black;
+  font-size:12px;
 }
